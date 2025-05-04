@@ -33,6 +33,6 @@ A todo list application with tab support, built with Python and Tkinter. Organiz
 
 2. **Run the application**:
    ```bash
-   git clone https://github.com/yourusername/todo_app_with_tabs.git
+   git clone https://github.com/khuang08/todo_app_with_tabs.git
    cd todo_app_with_tabs
    python main.py
