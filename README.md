@@ -10,7 +10,7 @@ This repository contains two versions of a Tkinter-based to-do list application:
 - Task persistence
 - No dependencies beyond Python+Tkinter
 
-**Run it:** `python simple_todo/main.py`
+**Run it:** `python simple_todo/todo.py`
 
 ## 2. Tabbed To-Do List 
 ![Tabbed Version Screenshot](screenshots/UvblofQvBe.png)
