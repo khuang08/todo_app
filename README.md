@@ -23,13 +23,18 @@ This repository contains two versions of a Tkinter-based to-do list application:
 **Run it:** `python tabbed_todo/main.py`
 
 ## Structure
-├── simple_todo/ # Basic version
-│ ├── main.py
-│ ├── views/
-│ └── ...
-├── tabbed_todo/ # Advanced version
-│ ├── main.py
-│ ├── controllers/
-│ └── ...
-├── screenshots/ # Example images
-└── LICENSE.md # MIT License
+- **simple_todo/** - Basic version
+  - `todo.py`
+- **tabbed_todo/** - Advanced version
+  - `main.py`
+   - `controllers/`
+     - `task_controller.py` 
+     - `tab_controller.py`
+   - `models/`
+     - `data_manager.py`
+   - `views/`
+     - `main_window.py`
+     - `tab_view.py`
+     - `task_view.py`
+- **screenshots/**
+- `LICENSE.md`
